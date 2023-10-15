@@ -1,2 +1,2 @@
 # Major-Project
-Deep Fake Detection Using Machine Learning
+Deep Fake Detection Using Deep Learning
